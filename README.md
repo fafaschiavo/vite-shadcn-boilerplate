@@ -1,14 +1,4 @@
 <h1 align="center">Vite React Project Boilerplate (TS/JS) (ShadcnUI & Tailwind)</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/FarhanSoftware" target="_blank">
-    <img alt="Twitter: FarhanSoftware" src="https://img.shields.io/twitter/follow/FarhanSoftware.svg?style=social" />
-  </a>
-</p>
-
 ## Main configurations
 
 - React 18 that supports both TypeScript & JavaScript out of the box
