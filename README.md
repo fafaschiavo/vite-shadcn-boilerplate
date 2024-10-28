@@ -1,4 +1,5 @@
 <h1 align="center">Vite React Project Boilerplate (TS/JS) (ShadcnUI & Tailwind)</h1>
+
 ## Main configurations
 
 - React 18 that supports both TypeScript & JavaScript out of the box
